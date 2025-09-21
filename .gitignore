@@ -5,6 +5,10 @@ input/
 *.zip
 raw_downloads/
 
+
+# But always include requirements.txt
+!requirements.txt
+
 # Processed files are OK to commit
 # output/ - keep these
 
