@@ -17,15 +17,3 @@ venv/
 # IDE
 .vscode/
 .idea/
-output/
-*.csv
-*.parquet
-*.rrf
-output/
-*.csv
-*.parquet
-*.rrf
-*.zip
-*.gz
-*.tgz
-*.7z
